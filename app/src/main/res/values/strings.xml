@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="opis_opcji">usun wszystkie</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="model">Model</string>
+    <string name="version">Version</string>
+    <string name="website">Website</string>
+
+    <string name="cancel">CANCEL</string>
+    <string name="save">SAVE</string>
+    <string name="plus">plus</string>
+    <string name="edit">Update</string>
+</resources>
